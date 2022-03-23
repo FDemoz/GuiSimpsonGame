@@ -1,0 +1,10 @@
+You need to follow the following rules:
+Player 1 controls:
+A = Move left
+D = Move right
+W = Special move
+
+Player 2 controls:
+J = Move left
+L = Move right
+I = Special move
